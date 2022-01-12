@@ -131,4 +131,4 @@ with open("edward_gaming_icon.png","wb") as file:
 ```
 
 The image should look like this.  
-<img src="edward_gaming5093.png" width="250">
+<img src="../images/edward_gaming5093.png" width="250">
